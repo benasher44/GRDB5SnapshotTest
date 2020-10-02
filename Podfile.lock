@@ -1,0 +1,24 @@
+PODS:
+  - GRDB.swift (5.0.1):
+    - GRDB.swift/standard (= 5.0.1)
+  - GRDB.swift/standard (5.0.1)
+  - sqlite3 (3.33.0):
+    - sqlite3/common (= 3.33.0)
+  - sqlite3/common (3.33.0)
+
+DEPENDENCIES:
+  - GRDB.swift
+  - sqlite3
+
+SPEC REPOS:
+  trunk:
+    - GRDB.swift
+    - sqlite3
+
+SPEC CHECKSUMS:
+  GRDB.swift: 04965b2db24aa24d5a70b50755a0f559c0ec84de
+  sqlite3: cd6cd1a4ee50b8b5fdad2940bd05b1c1d2659efc
+
+PODFILE CHECKSUM: 061cfae5c6c10b4329629ed5e481354c50e9dd45
+
+COCOAPODS: 1.9.3
